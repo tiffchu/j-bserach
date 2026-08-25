@@ -1,4 +1,4 @@
-# Scout — Your AI job radar
+# Scout: AI job searcher
 
 Scout is a private job-search dashboard that collects roles from public job-board APIs, filters them around your preferences, and ranks them against a profile derived from your CV.
 
@@ -8,7 +8,7 @@ The current release is an MVP: it demonstrates the complete search, filtering, r
 
 [![Scout product demo](assets/demo.gif)](assets/demo.mp4)
 
-[Watch or download the full MP4 demo](assets/demo.mp4)
+[Watch or download demo if embedded vid doesn't show](assets/demo.gif)
 
 ## What Scout can do
 
