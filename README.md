@@ -4,6 +4,14 @@ Scout is a private job-search dashboard that collects roles from public job-boar
 
 The current release is an MVP: it demonstrates the complete search, filtering, ranking, saving, and CV-upload workflow without requiring an AI API key.
 
+## Product demo
+
+<video src="assets/demo.mp4" controls width="100%">
+  Your browser does not support embedded video. Open the demo using the link below.
+</video>
+
+[Watch or download the Scout demo](assets/demo.mp4)
+
 ## What Scout can do
 
 - Search jobs by title, company, or skill.
