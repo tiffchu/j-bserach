@@ -157,7 +157,6 @@ export default function Home() {
         <header className="topbar">
           <div><p className="eyebrow">TUESDAY, AUGUST 25</p><h1>Your job radar</h1></div>
           <div className="top-actions">
-            <button className="icon-button" aria-label="Notifications">♢<span className="notification-dot" /></button>
             <button className="secondary-button" onClick={() => setSourceOpen(true)}>Manage sources</button>
             <button className="primary-button" onClick={() => setUploadOpen(true)}>{profileReady ? "Update CV" : "Add your CV"}</button>
           </div>
