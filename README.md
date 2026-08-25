@@ -6,11 +6,9 @@ The current release is an MVP: it demonstrates the complete search, filtering, r
 
 ## Product demo
 
-<video src="assets/demo.mp4" controls width="100%">
-  Your browser does not support embedded video. Open the demo using the link below.
-</video>
+[![Scout product demo](assets/demo.gif)](assets/demo.mp4)
 
-[Watch or download the Scout demo](assets/demo.mp4)
+[Watch or download the full MP4 demo](assets/demo.mp4)
 
 ## What Scout can do
 
